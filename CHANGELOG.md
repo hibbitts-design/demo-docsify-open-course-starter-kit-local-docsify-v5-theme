@@ -10,7 +10,7 @@
 * Unify docsify-v5-core.css and responsive tables plugin across docsify-this and starter kits
 * Sync print.css image grid print rules from Docsify-This
 * Update vendored Font Awesome from 5.14.0 to 6.6.0
-* Add optional Mermaid and LaTeX support, commented out by default
+* Add optional local Mermaid and LaTeX support support, commented out by default
 
 **Bugfix:**
 * Add top margin to tables and Mermaid diagrams so they don't sit flush against headings
