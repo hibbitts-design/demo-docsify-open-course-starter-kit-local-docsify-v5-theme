@@ -11,6 +11,7 @@
 * Sync print.css image grid print rules from Docsify-This
 * Update vendored Font Awesome from 5.14.0 to 6.6.0
 * Add optional local Mermaid and LaTeX support support, commented out by default
+* Add Edit this Page position and text settings and fix link vertical alignment
 
 **Bugfix:**
 * Add top margin to tables and Mermaid diagrams so they don't sit flush against headings
