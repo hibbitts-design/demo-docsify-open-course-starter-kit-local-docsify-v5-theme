@@ -13,6 +13,7 @@
 * Add optional local Mermaid and LaTeX support support, commented out by default
 * Add Edit this Page position and text settings and fix link vertical alignment
 * Enable crossChapter and use a patched pagination plugin that skips external links
+* Show pagination page names when the sidebar is hidden, with smaller titles on phones
 
 **Bugfix:**
 * Add top margin to tables and Mermaid diagrams so they don't sit flush against headings
