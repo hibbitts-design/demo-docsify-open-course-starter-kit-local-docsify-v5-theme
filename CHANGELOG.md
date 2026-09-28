@@ -12,6 +12,7 @@
 * Update vendored Font Awesome from 5.14.0 to 6.6.0
 * Add optional local Mermaid and LaTeX support support, commented out by default
 * Add Edit this Page position and text settings and fix link vertical alignment
+* Enable crossChapter and use a patched pagination plugin that skips external links
 
 **Bugfix:**
 * Add top margin to tables and Mermaid diagrams so they don't sit flush against headings
